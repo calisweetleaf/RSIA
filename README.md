@@ -11,7 +11,7 @@ This drop contains the runnable symbolic components described in the paper *Recu
 - `docs/Recursive Symbolic Identity Architechture.md` — Source manuscript with math foundations and code overviews.
 - `docs/RSIA_final.pdf` — XeLaTeX/Pandoc build of the paper.
 - `rsgt_snippet.py` — Enhanced RSGT engine with RSIA↔RCF integration.
-- `rsia_rcf_bridge.py` — Adapter that feeds RSGT output into the RCF core.
+- `rsia_rcf_bridge.py` — Adapter that feeds RSGT output into the RCF core.(still to be added)
 - `rcf_core.py` — NumPy-only reference implementation of the recursive categorical framework.
 - `sacred_fbs_tokenizer.py`, `test_sacred_fbs.py` — Post-token FBS pipeline and validation suite.
 - `hash-index.ps1` — Provenance tool that writes the `SHA256SUMS.txt` manifest (signed hashes/Timestamp proofs optional).
