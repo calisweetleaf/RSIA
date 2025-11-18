@@ -1,2 +1,3 @@
 .venv/
 *.venv/
+*hash-index.ps1/
