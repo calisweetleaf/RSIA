@@ -1,10 +1,10 @@
 # Hash Manifest v1.0
 # Algorithm: SHA256
-# Generated: 2025-11-18T07:48:21.8080050Z
-# Git Commit: N/A
-# Git Tag: N/A
+# Generated: 2025-11-18T07:57:29.5415919Z
+# Git Commit: 553a3a304ac830aa40d16124b79ff44bf3e6e68d
+# Git Tag: v1.0.0
 # Release Version: v1.0.0
-# Release Title: Provenence Establishment
+# Release Title: readme
 # Tool: hash-index.ps1
 #
 1baf90e3c6bf4b73682a5c6b84a4bd204681b69082bd521d86b5239aee9e415f  eigenrecursion_algorithm.py
@@ -14,6 +14,7 @@ a19d8dda97f8dc69a46b6b533618de98571b738ddd3561c6cfcd41e84e4a3071  hash-index.ps1
 f7f28b8c7a1af76b9874ca6d040e8b1eb6768fd1043106c9d315090ea96754e7  LICENSE
 760687eee80bd852b555b5a7c1cb719f72f3f891b47e420f67fea97a0f264e5e  motivation_system.py
 f8c6467655d02b830f01594d31a1c9c5798292c30f74950de526e62003615dfc  rcf_core.py
+843d8c8dc6f42fad4a8f4b620e47b573dcef583cf927b7002e71584e43dd4fc9  README.md
 23c3b204e32e5f26eaf721a70708bf77eca5f9103bec6fa85eee576245a647d1  Recursive Symbolic Identity Architechture.md
 91d9ee1889cf9a87a5486a3cfbbbc58d90a4fed337d2905ab943fb68945db529  recursive_symbolic_identity_architechture.py
 a4d85d8ff8d5c21a09914e3934b0bdcab31500acd68083543823165afb15c8c6  rsgt_snippet.py
