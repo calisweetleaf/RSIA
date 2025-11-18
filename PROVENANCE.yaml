@@ -1,0 +1,29 @@
+disclosure:
+  title: "Provenence Establishment"
+  version: "v1.0.0"
+  release_date: "2025-11-18T07:48:22.3801353Z"
+  author: "Christian Trey Rowell"
+  
+chain:
+  - event: "Hash manifest generation"
+    date: "2025-11-18T07:48:22.3801353Z"
+    git_commit: "N/A"
+    git_tag: "N/A"
+    
+signatures:
+  gpg_key: "8AC029E245638CC6"
+  index_files:
+    - SHA256SUMS.txt
+    - SHA256SUMS.txt.asc
+    - SHA256SUMS.txt.ots
+    
+verification:
+  instructions: |
+    1. Verify GPG signature:
+       gpg --verify SHA256SUMS.txt.asc SHA256SUMS.txt
+    
+    2. Verify file integrity:
+       sha256sum -c SHA256SUMS.txt
+    
+    3. Verify timestamp (after blockchain confirmation):
+       ots verify SHA256SUMS.txt.ots
