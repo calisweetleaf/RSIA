@@ -1,0 +1,375 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-11-18T08:34:42.279371+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 8,
+    "default_preview": "RSIA_final.pdf",
+    "enabled": true,
+    "entries": {
+      "LICENSE": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dfd05ee1d586a3ba5da11d8cc332ada6",
+        "ext": "bin",
+        "id": "7839a60d-949e-44aa-b6cb-818f880d7559",
+        "key": "LICENSE",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/LICENSE/content",
+          "self": "https://zenodo.org/api/records/17638060/files/LICENSE"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 19126,
+        "storage_class": "L"
+      },
+      "README.md": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5b619b09a9b18ac7a1dc6e6b8ad64dbf",
+        "ext": "md",
+        "id": "bcaa265c-f855-47d1-a403-019b781fdb80",
+        "key": "README.md",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/README.md/content",
+          "self": "https://zenodo.org/api/records/17638060/files/README.md"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 3252,
+        "storage_class": "L"
+      },
+      "RSIA_final.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ca9900b2b782ac3958fc9d7f3a2b79bf",
+        "ext": "pdf",
+        "id": "c2545122-6076-4424-90f9-bd0e622be9b0",
+        "key": "RSIA_final.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/RSIA_final.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:17638060:RSIA_final.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:17638060:RSIA_final.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:17638060/canvas/RSIA_final.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:17638060:RSIA_final.pdf/info.json",
+          "self": "https://zenodo.org/api/records/17638060/files/RSIA_final.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 194440,
+        "storage_class": "L"
+      },
+      "SHA256SUMS.txt": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bea63c10d878079371840e7596b113f0",
+        "ext": "txt",
+        "id": "57691aae-b6d6-4014-a233-832ee57bed25",
+        "key": "SHA256SUMS.txt",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/SHA256SUMS.txt/content",
+          "self": "https://zenodo.org/api/records/17638060/files/SHA256SUMS.txt"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 1668,
+        "storage_class": "L"
+      },
+      "rcf_core.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4f79e491303f1a64b97b0808168f6c5a",
+        "ext": "py",
+        "id": "85596ad8-c992-4f78-a0ec-3928c53ee24f",
+        "key": "rcf_core.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/rcf_core.py/content",
+          "self": "https://zenodo.org/api/records/17638060/files/rcf_core.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 24858,
+        "storage_class": "L"
+      },
+      "sacred_fbs_tokenizer.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:241f852bd70ccaa97167bc96c57c2df4",
+        "ext": "py",
+        "id": "bb62cdd6-fef4-4a55-a666-de7c20c8f890",
+        "key": "sacred_fbs_tokenizer.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/sacred_fbs_tokenizer.py/content",
+          "self": "https://zenodo.org/api/records/17638060/files/sacred_fbs_tokenizer.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 28997,
+        "storage_class": "L"
+      },
+      "sacred_fbs_validation.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c46cb818d8e1c4af14048d0679b95425",
+        "ext": "png",
+        "id": "539c548e-d2bf-49ac-950e-5f14a28ebf79",
+        "key": "sacred_fbs_validation.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/sacred_fbs_validation.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:17638060/canvas/sacred_fbs_validation.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/info.json",
+          "self": "https://zenodo.org/api/records/17638060/files/sacred_fbs_validation.png"
+        },
+        "metadata": {
+          "height": 1475,
+          "width": 2084
+        },
+        "mimetype": "image/png",
+        "size": 197348,
+        "storage_class": "L"
+      },
+      "test_sacred_fbs.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:41abc2ec63911de9147fdd38e9de00ed",
+        "ext": "py",
+        "id": "f546efcb-ccef-4fb9-8212-359f4be39f0e",
+        "key": "test_sacred_fbs.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/test_sacred_fbs.py/content",
+          "self": "https://zenodo.org/api/records/17638060/files/test_sacred_fbs.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 16643,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 486332
+  },
+  "id": "17638060",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/17638060/access",
+    "access_grants": "https://zenodo.org/api/records/17638060/access/grants",
+    "access_links": "https://zenodo.org/api/records/17638060/access/links",
+    "access_request": "https://zenodo.org/api/records/17638060/access/request",
+    "access_users": "https://zenodo.org/api/records/17638060/access/users",
+    "archive": "https://zenodo.org/api/records/17638060/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17638060/media-files-archive",
+    "communities": "https://zenodo.org/api/records/17638060/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17638060/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.17638060",
+    "draft": "https://zenodo.org/api/records/17638060/draft",
+    "files": "https://zenodo.org/api/records/17638060/files",
+    "latest": "https://zenodo.org/api/records/17638060/versions/latest",
+    "latest_html": "https://zenodo.org/records/17638060/latest",
+    "media_files": "https://zenodo.org/api/records/17638060/media-files",
+    "parent": "https://zenodo.org/api/records/17638059",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17638059",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17638059",
+    "parent_html": "https://zenodo.org/records/17638059",
+    "preview_html": "https://zenodo.org/records/17638060?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/17638060/request-deletion",
+    "requests": "https://zenodo.org/api/records/17638060/requests",
+    "reserve_doi": "https://zenodo.org/api/records/17638060/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/17638060",
+    "self_doi": "https://doi.org/10.5281/zenodo.17638060",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17638060",
+    "self_html": "https://zenodo.org/records/17638060",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17638060/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17638060/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:17638060:sacred_fbs_validation.png/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/17638060/versions"
+  },
+  "media_files": {
+    "count": 2,
+    "enabled": true,
+    "entries": {
+      "RSIA_final.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "dc4e52cc-0210-48cb-85b8-6c6eaa2b683d",
+        "key": "RSIA_final.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/RSIA_final.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/17638060/files/RSIA_final.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c2545122-6076-4424-90f9-bd0e622be9b0",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "sacred_fbs_validation.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4a80fcf0-792f-4adb-a03c-f636c6e30284",
+        "key": "sacred_fbs_validation.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/17638060/files/sacred_fbs_validation.png.ptif/content",
+          "self": "https://zenodo.org/api/records/17638060/files/sacred_fbs_validation.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "539c548e-d2bf-49ac-950e-5f14a28ebf79",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Rowell",
+          "given_name": "Christian Trey",
+          "identifiers": [
+            {
+              "identifier": "0009-0008-6550-6316",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Rowell, Christian Trey",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>The Recursive Symbolic Identity Architecture pioneers a transformative approach to the problem of identity persistence in symbolic, cognitive, and artificial intelligence systems. RSIA defines identity not as a static state, but as a stable eigen-pattern that emerges from recursive transformation. Building directly on the mathematical foundations established in the Recursive Categorical Framework and the Unified Recursive Sentience Theory, the RSIA turns those mathematical substrates into executable code. RSIA provides the first operational bridge between symbolic operators, recursive dynamics, and computational identity, establishing a post-token and mathematically grounded architecture for artificial intelligence systems. All code and other contents are under the Creative Commons Attribution Non Commercial No Derivatives 4.0 International license. A github repository that will slowely be updated can be found https://github.com/calisweetleaf/RSIA . The most up to date versions of the code can be found here.</p>",
+    "publication_date": "2025-11-18",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "publication-preprint",
+      "title": {
+        "de": "Preprint",
+        "en": "Preprint"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "icon": "cc-by-nc-nd-icon",
+        "id": "cc-by-nc-nd-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+        }
+      }
+    ],
+    "title": "Recursive Symbolic Identity Architecture",
+    "version": "v1.0.0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1457830"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "17638059",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.17638059",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.17638060",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17638060",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-11-18T08:34:42.958694+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
