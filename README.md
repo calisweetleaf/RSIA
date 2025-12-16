@@ -50,7 +50,8 @@ This drop contains the runnable symbolic components described in the paper *Recu
 
 ## Licensing
 
-All contents are governed by `LICENSE`, a “Non-derivative, No International, No Commercial 4.0” license. Redistribution is allowed for archival and review purposes, but derivative works, commercial exploitation, and cross-border distribution are prohibited. By using this repository you agree to those terms.
+This repository is now fully open for research collaboration under CC BY-NC-SA 4.0.
+
 
 ## Citation
 
